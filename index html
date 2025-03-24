@@ -1,0 +1,46 @@
+# Aviator Predictor App
+
+
+This repository contains the Aviator Predictor App, which provides real-time predictions for the Aviator game.
+
+## Features
+- Real-time predictions
+- Advanced algorithms
+- Multi-platform availability (iOS, Android, Web)
+- User guidance
+- Regular updates
+- High accuracy claims
+- User confidence boost
+
+## Getting Started
+Follow the instructions below to set up and run the app.
+
+### Prerequisites
+- Node.js
+- npm (Node Package Manager)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/veeh11/aviator-predictor-app.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd aviator-predictor-app
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Usage
+Run the app:
+```bash
+npm start
+```
+
+## Contributing
+Feel free to contribute to the project by submitting issues or pull requests.
+
+## License
+This project is licensed under the MIT License.
